@@ -5,10 +5,6 @@ payload:
   - DOMAIN-SUFFIX,strawberryperl.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,python.org
-  - DOMAIN-SUFFIX,themoviedb.org
-  - DOMAIN-SUFFIX,tmdb.org
-  - DOMAIN-SUFFIX,weserv.nl
-  - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,zerotier.com
   - DOMAIN-SUFFIX,nexusphp.org
@@ -16,10 +12,6 @@ payload:
   - DOMAIN-SUFFIX,mahjongsoul.com
   - DOMAIN-SUFFIX,dnschecker.org
   - DOMAIN-SUFFIX,anoneko.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,bangumi.tv
-  - DOMAIN-SUFFIX,readthedocs.org
-  - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,dbdsub.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,pypi.org
@@ -41,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,cloudreve.org
   - DOMAIN-SUFFIX,emby.media
