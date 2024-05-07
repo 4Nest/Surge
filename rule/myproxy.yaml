@@ -48,4 +48,6 @@ payload:
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,gofrp.org
   - DOMAIN-SUFFIX,theifab.com
-  - DOMAIN-SUFFIX,imgbox.com,Proxies
+  - DOMAIN-SUFFIX,imgbox.com
+  - DOMAIN-SUFFIX,u2.dmhy.org
+  - DOMAIN-SUFFIX,bt.byr.cn
