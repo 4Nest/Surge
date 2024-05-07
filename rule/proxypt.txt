@@ -11,3 +11,7 @@ payload:
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-SUFFIX,hdtime.org
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,bangumi.tv
+  - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,mikanani.me
