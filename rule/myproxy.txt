@@ -51,3 +51,4 @@ payload:
   - DOMAIN-SUFFIX,imgbox.com
   - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,bt.byr.cn
+  - DOMAIN-SUFFIX,hhanclub.top
