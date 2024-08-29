@@ -1,0 +1,4 @@
+# 添加直连规则示例
+
+rules:
+  - "DOMAIN-SUFFIX,aip.baidubce.com,DIRECT"
