@@ -2,3 +2,6 @@ DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,aip.baidubce.com
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,tailscale.com
+IP-CIDR,100.64.0.0/10
