@@ -4,4 +4,5 @@ DOMAIN-SUFFIX,aip.baidubce.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,85zc.app
 IP-CIDR,100.64.0.0/10
