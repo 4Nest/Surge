@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "v4.plex.tv",
+                "b23.tv",
+                "gitee.com"
+            ],
+            "domain_suffix": [
+                ".v4.plex.tv",
+                ".b23.tv",
+                ".gitee.com"
+            ],
+            "ip_cidr": []
+        }
+    ]
+}
