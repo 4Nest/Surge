@@ -1,0 +1,9 @@
+payload:
+  - '+.tmdb.org'
+  - '+.themoviedb.org'
+  - '+.api.themoviedb.org'
+  - '+.www.themoviedb.org'
+  - '+.api.tmdb.org'
+  - '+.api.thetvdb.com'
+  - '+.thetvdb.com'
+  - '+.fanart.tv'
